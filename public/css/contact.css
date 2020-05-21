@@ -1,0 +1,21 @@
+
+.form {
+    margin-top: 80px;
+    text-align: center;
+
+    background-color: #f0f0f0;
+    border: 1px solid #c9c9c9;
+    border-radius: 6px;
+    padding: 15px 0 15px 15px;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(44, 125, 156);
+    margin-bottom: 20px;
+}
+
+label {
+    text-align: right;
+}
+
